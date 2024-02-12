@@ -65,7 +65,7 @@ def __main__:
      gen = main()
        url = req()
         usages = req("https://github.com/natrixdev/")
-                  
+                   
             
    
   
